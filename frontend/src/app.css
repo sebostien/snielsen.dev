@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Inconsolata;
+  src: url("/Inconsolata-VF.ttf");
+}
+
+:root {
+  font-family: Inconsolata, Inter;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: #fafafa;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body, #content {
+  min-height: 100vh;
+  background-color: #0d1117;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: inherit;
+}
