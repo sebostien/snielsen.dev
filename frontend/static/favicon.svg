@@ -1,0 +1,37 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="green-blue" x1="1" x2="0">
+			<stop stop-color="#2880FE" offset="0%" />
+			<stop stop-color="#27AE60" offset="100%" />
+		</linearGradient>
+	</defs>
+<ellipse cx="50%" cy="50%" rx="50%" ry="50%" fill="#0D1117"/>
+<!-- S -->
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 120   32  L 32  108"/>
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 32    108 L 76  108"/>
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 102.4 108 L 120 108"/>
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 120   108 L 32  192"/>
+	
+<!-- N -->
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 136   32  L 136   192"/>
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 136   32  L 184.4 120"/>
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 197.6 144 L 224   192"/>
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 224   64  L 224   192"/>
+
+<!-- Green Lines -->
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 40   208  L 128   208"/>
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 56   224  L 128   224"/>
+<path fill="transparent" stroke="#27AE60" stroke-width="8" stroke-linecap="round" d="M 84   240  L 128   240"/>
+
+<!-- Blue Lines -->
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 128   208  L 216   208"/>
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 128   224  L 200   224"/>
+<path fill="transparent" stroke="#2880FE" stroke-width="8" stroke-linecap="round" d="M 128   240  L 172   240"/>
+	
+<!-- Gradients -->
+<rect fill="url(#green-blue)" stroke="transparent" x="100" y="204" width="56" height="8" />
+<rect fill="url(#green-blue)" stroke="transparent" x="100" y="220" width="56" height="8" />
+<rect fill="url(#green-blue)" stroke="transparent" x="100" y="236" width="56" height="8"  />
+
+</svg>
+

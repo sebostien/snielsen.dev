@@ -1,3 +1,5 @@
 target/
-static/
 .env
+
+static/
+!frontend/static/
