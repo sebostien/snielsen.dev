@@ -6,13 +6,13 @@
 <h2>About me</h2>
 
 <p>
-    My name is Sebastian Nielsen, and I am currently pursuing a Master's degree
+    My name is Sebastian Nielsen, and I am currently pursuing a master's degree
     at Chalmers University of Technology with a focus on Algorithms, Languages,
     and Logic.
 </p>
 <p>
-    Right now, I'm in writing my master thesis about concurrent priority queues
-    in Rust. Focusing both on the performance and development aspects of Rust,
+    Right now, I am writing my master thesis about concurrent priority queues in
+    Rust. Focusing both on the performance and development aspects of Rust,
     while investigating improvements to the algorithms.
 </p>
 
@@ -33,8 +33,8 @@
         ray tracer with material and reflection support.
     </li>
     <li>
-        <a href="https://github.com/sebostien/automata_rust/">automata_rust</a> Implementations
-        and visualizations of some finite-state machines. Just an excuse to work
+        <a href="https://github.com/sebostien/automata_rust/">automata_rust</a> Implementation
+        and visualization of some finite-state machines. Just an excuse to work
         on some graph theory.
     </li>
 </ul>
